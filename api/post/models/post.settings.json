@@ -42,6 +42,9 @@
       "collection": "category",
       "via": "posts",
       "dominant": true
+    },
+    "slug": {
+      "type": "string"
     }
   }
 }
